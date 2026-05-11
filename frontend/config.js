@@ -1,3 +1,3 @@
 window.TRUSTMIND_CONFIG = {
-  BACKEND_URL: "https://trustmind-api.onrender.com",
+  BACKEND_URL: "https://trustmind.onrender.com",
 };
